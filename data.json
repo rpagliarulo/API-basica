@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Castillo inflable",
+        "disponible": true,
+        "precio": 25000
+    },
+
+    {
+        "id": 2,
+        "descripcion": "Toro mecánico",
+        "disponible": true,
+        "precio": 32000
+
+    },
+
+    {
+        "id": 3,
+        "descripcion": "Metegol",
+        "disponible": true,
+        "precio": 12500
+
+
+    }, 
+
+    {
+        "id": 4,
+        "descripcion": "Pool",
+        "disponible": false,
+        "precio": 19000
+
+    }
+
+]
